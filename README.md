@@ -1,5 +1,11 @@
 # GenAI Software Wrapper🦜️🔗 
 
+## Features
+- **`Stateless Interaction:`**: Operates without maintaining conversation history, ideal for handling independent queries.
+- **`LangChain Integration`**: Uses LangChain for prompt management and chaining LLM interactions.
+- **`Google Gemini`**: Interfaces with Google Gemini for generating responses based on user queries.
+- **`Streamlit Frontend`**:Provides an interactive web interface for users to input questions and receive responses.
+
 ## Quick Installations
 
 Create and activate a virtual environment:
