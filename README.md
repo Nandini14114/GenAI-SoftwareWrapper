@@ -55,6 +55,6 @@ Interact with the Application
 - The application will display the response in JSON format.
 
 ## 📖 API Documentation
-Check this [link](https://python.langchain.com](https://documenter.getpostman.com/view/38302474/2sAXqndjDb) for full documentation
+Check this [link](https://documenter.getpostman.com/view/38302474/2sAXqndjDb) for full documentation
 
 
