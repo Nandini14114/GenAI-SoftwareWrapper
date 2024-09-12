@@ -55,6 +55,13 @@ Interact with the Application
 - The application will display the response in JSON format.
 
 ## 📖 API Documentation
-Check this [link](https://documenter.getpostman.com/view/38302474/2sAXqndjDb) for full documentation
+Check this [link](https://documenter.getpostman.com/view/38302474/2sAXqndjDb) for full API documentation
+- Getting Started
+- API Endpoints
+- Request and Response Structure
+- Error Handling
+- Deployment
+- Conclusion
+  
 
 
