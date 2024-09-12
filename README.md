@@ -27,8 +27,11 @@ Install the dependencies:
 pip install -r requirements.txt
 
 ```
-##  What is LangChain?
-LangChain is a library designed to simplify the development of applications that leverage large language models (LLMs). It provides a framework for integrating LLMs with various tools and services, facilitating complex interactions, and enabling more sophisticated use cases in natural language processing
+In the root directory of your project, create a file named .env and add your API keys:
+```bash
+GOOGLE_API_KEY=your_google_api_key
+
+```
 
 ### Open-source libraries
 - **`google-generativeai`**:  Interfaces with Google's Gemini Generative AI model to generate responses based on prompts. This library allows interaction with Google’s generative AI services.
@@ -36,3 +39,22 @@ LangChain is a library designed to simplify the development of applications that
   - Some integrations have been further split into **partner packages** that only rely on **`langchain-core`**. Examples include **`langchain_openai`** and **`langchain_anthropic`**.
 - **`langchain`**: Chains, agents, and retrieval strategies that make up an application's cognitive architecture.
 - **`streamlit`**:Provides an interactive web interface for Python scripts. It's used to create the frontend of your application where users can input questions and view responses.
+
+  ##  What is LangChain?
+LangChain is a library designed to simplify the development of applications that leverage large language models (LLMs). It provides a framework for integrating LLMs with various tools and services, facilitating complex interactions, and enabling more sophisticated use cases in natural language processing
+
+##  Usage
+Run the Streamlit application to start the web interface:
+```bash
+streamlit run app.py
+
+```
+Interact with the Application
+- Open your web browser and go to the one url which is created.
+- Enter your question in the input field and click "Ask the question."
+- The application will display the response in JSON format.
+
+## 📖 API Documentation
+Check this [link](https://python.langchain.com](https://documenter.getpostman.com/view/38302474/2sAXqndjDb) for full documentation
+
+
