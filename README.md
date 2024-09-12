@@ -53,8 +53,11 @@ Interact with the Application
 - Open your web browser and go to the one url which is created.
 - Enter your question in the input field and click "Ask the question."
 - The application will display the response in JSON format.
+  
+##  Output:
+  ![Image1](https://github.com/user-attachments/assets/23fcf8a8-42ad-4640-916e-30669a66f901)
 
-## 📖 API Documentation
+## 📖 API Documentation:
 Check this [link](https://documenter.getpostman.com/view/38302474/2sAXqndjDb) for full API documentation
 - Getting Started
 - API Endpoints
@@ -63,5 +66,10 @@ Check this [link](https://documenter.getpostman.com/view/38302474/2sAXqndjDb) fo
 - Deployment
 - Conclusion
   
+  ##  Demonstration Video:
+  This video provides an overview of the [Project Name], showcasing how to use its key features, including interacting with the chatbot and handling complex 
+  reasoning queries. It also covers the integration with [LangChain/Google Gemini] and demonstrates the model deployment.
+
+  https://github.com/user-attachments/assets/ca468276-355e-4134-be1e-6ef8c21632a1
 
 
